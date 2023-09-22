@@ -2,7 +2,7 @@ Everything I learn is here.
 
 * Doctorate courses
 ** First Year Semester 1:
-   Computer Vision
+   Computer Vision \n
    Planning and Decision Making for Autonomous Robots
    Computational Structural Design 1
    Coding Architecture 1 
