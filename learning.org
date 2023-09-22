@@ -5,7 +5,7 @@ Everything I learn is here.
    Computer Vision
    Planning and Decision Making for Autonomous Robots
    Computational Structural Design 1
-   Coding Architecture 1 ... Maybe Dont Take or maybe do take, or maybe not
+   Coding Architecture 1 
    Design Integrated Life Cycle Assessment
 ** DONE Course about Foo
    <2016-10-14 Fri 10:00>--<2016-10-14 Fri 12:00>
