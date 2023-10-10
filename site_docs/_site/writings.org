@@ -1,0 +1,39 @@
+Everything I write but papers.
+
+* Blog drafts
+** TODO Blog on the relations between foo and bar
+- PREVIEW LATEX with C-c C-x C-l
+- OUTPUT PDF with C-c C-e l o
+-
+
+* My next section
+
+ok yea latex is alright here
+\begin{equation}
+y = f(x) + \dfrac{\cos{\theta}}{\psi}
+\end{equation}
+
+* Table Stuff
+
+First Line
+\\Second Line
+
+| column | next col | last col |
+| ok     |  not bad | dang     |
+;; active babel
+
+#+begin_src python :results output
+    (org-babel-do-load-languages
+    'org-babel-do-load-languages
+    '(
+	(sh . t)
+	(python . t)
+    ))
+  print('helloworld')
+
+
+#+end_src
+
+#+RESULTS:
+
+
