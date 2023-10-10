@@ -1,0 +1,25 @@
+Everything I learn is here.
+
+* Doctorate courses
+** First Year Semester 1:
+   Computer Vision \n
+   Planning and Decision Making for Autonomous Robots
+   Computational Structural Design 1
+   Coding Architecture 1 
+   Design Integrated Life Cycle Assessment
+** DONE Course about Foo
+   <2016-10-14 Fri 10:00>--<2016-10-14 Fri 12:00>
+   3 credits
+   Course notes: …
+** DOING Course about bar
+   2 credits
+
+* Weekly continuous learning
+** Learn about algorithms!
+   <2016-10-25 Tue 14:00 +1w>
+** Learn about stuff!
+   <2016-10-26 Wed 14:00 +1w>
+
+* MOOC
+** DONE Coursera foo
+** DOING Coursera bar
